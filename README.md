@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wydniy
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python and Cyber Security
+- 👋 Hi, I’m Janiyah
+- 👀 I’m interested in IT and Cyber Security. Specifically Data Science and/or Software Engineering.
+- 🌱 I’m currently learning Web Development and Machine Learning
 - 💞️ I’m looking to collaborate and Network with any Cyber Security, Game Developers, or IT Field Related people.
 - 📫 How to reach me https://www.linkedin.com/in/janiyah-sherrill/
 - 😄 Pronouns: She/Her
